@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 3.1.1.50 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://pad.asp-software.org</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>AIGraph Team</Company_Name>
+		<Address_1 />
+		<Address_2 />
+		<City_Town />
+		<State_Province />
+		<Zip_Postal_Code />
+		<Country />
+		<Company_WebSite_URL>https://www.aigraph.com</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name />
+			<Author_Last_Name />
+			<Author_Email />
+			<Contact_First_Name />
+			<Contact_Last_Name />
+			<Contact_Email>info@aigraph.com</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>sales@aigraph.com</Sales_Email>
+			<Support_Email>support@aigraph.com</Support_Email>
+			<General_Email>info@aigraph.com</General_Email>
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>AIGraph CAD Viewer</Program_Name>
+		<Program_Version>5.0.2</Program_Version>
+		<Program_Release_Month>02</Program_Release_Month>
+		<Program_Release_Day>10</Program_Release_Day>
+		<Program_Release_Year>2018</Program_Release_Year>
+		<Program_Cost_Dollars />
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Shareware</Program_Type>
+		<Program_Release_Status>Major Update</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Win7 x32,Win7 x64,WinServer,WinVista,WinVista x64</Program_OS_Support>
+		<Program_Language>English</Program_Language>
+		<Program_Change_Info />
+		<Program_Specific_Category>Graphics</Program_Specific_Category>
+		<Program_Category_Class>Graphic Apps::CAD</Program_Category_Class>
+		<Program_System_Requirements />
+		<File_Info>
+			<File_Size_Bytes>15982185</File_Size_Bytes>
+			<File_Size_K>15125</File_Size_K>
+			<File_Size_MB>14</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>Y</Has_Expire_Info>
+			<Expire_Count>7</Expire_Count>
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>DWG,DXF,DGN,View,converter,measure,SVG,PDF</Keywords>
+			<Char_Desc_45>Professional CAD File Viewer and Converter.</Char_Desc_45>
+			<Char_Desc_80>View,measure,print and convert CAD files from CAD applications.</Char_Desc_80>
+			<Char_Desc_250>AIGraph CAD Viewer is carefully designed for non-CAD users to view,print CAD files. It's not only a CAD file viewer, but a professional CAD file working platform.Batch CAD file converter is the key functions of AIGraph CAD Viewer.</Char_Desc_250>
+			<Char_Desc_450>AIGraph CAD Viewer is carefully designed for non-CAD users to view,print CAD files. It's not only a CAD file viewer, but a professional CAD file working platform.Batch CAD file converter is the key functions of AIGraph CAD Viewer. Full set of PDF file properties are supported.With AIGraph CAD Viewer, you can export any CAD file to PDF, SVG or image file.</Char_Desc_450>
+			<Char_Desc_2000>AIGraph CAD Viewer is carefully designed for non-CAD users to view,print CAD files. It's not only a CAD file viewer, but a professional CAD file working platform.Batch CAD file converter is the key functions of AIGraph CAD Viewer. Full set of PDF file properties are supported.With AIGraph CAD Viewer, you can export any CAD file to PDF, SVG or image file.
+
+Features include:
+1   Open DWG file, version from 2.5 to 2010;
+2   Open DXF file;
+3   Files opened with multiple tabbed windows;
+4   Paper Space / Model Space displayed in different tabbed view window;
+5   DWG layouts support;
+6   View, print, save, convert via the command line.
+7   Supports DWG/DXF Viewports
+8   Multiple CAD files selection via File Open or Windows Explorer
+9   Support any number of files to convert;
+10  DWG layouts support;
+11  Convert via the command line;
+12  Conversion process report;
+13  Embedded the font of CAD file into PDF;
+14  Convert Truetype font to geometry;
+15  Convert SHX font to geometry;
+16  Export any part of views as you pick;
+17  Support hidden linke removal;
+18  Standard PDF properties: Title,Author, Subject,Keywords, Creator, Producer;
+19  Support hidden line;
+20  Support blended gradients color;
+21  Customise Image base for SVG;
+22  User defined Image URL;
+23  Support any image type in SVG file;
+24  Lightweight scale value;
+25  Support user defined floating point precise;
+26  Upgrade continuously!</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>https://www.aigraph.com/cadviewer/</Application_Info_URL>
+			<Application_Order_URL />
+			<Application_Screenshot_URL>https://www.aigraph.com/cadviewer/screenshot.html</Application_Screenshot_URL>
+			<Application_Icon_URL>https://www.aigraph.com/cadviewer/files/cadviewer.gif</Application_Icon_URL>
+			<Application_XML_File_URL>https://www.aigraph.com/cadviewer/files/pad.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>https://www.aigraph.com/cadviewer/files/setup.zip</Primary_Download_URL>
+			<Secondary_Download_URL>https://www.dropbox.com/s/9e8talt1728yby6/setup.zip?dl=0</Secondary_Download_URL>
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>Distribution Agreement
+
+Here is the standard Distribution License Agreement which is provided with all AIGraph Team Trial Versions. Please read it carefully to get informed about your rights an well as the rights of the users who will test Trial versions through your distribution.You must fully agree to the "Distribution Agreement" terms before distributing the Trial versions of our products.
+
+LICENSE GRANT
+
+AIGraph Team grants you a non-exclusive license to test this software in 7-Day Trial Version, and any associated documentation ("The Trial Version"), as indicated herein. You MAY: (a) install and use the Trial Version for evaluation purpose only during 7 days after the installation; (b) Redistribute the Trial Version by any mean (CDROM, Cover Disc, Web site...) as long as you do not change the original package and distribute only the original install package.
+
+RESTRICTIONS
+
+You MAY NOT: (a) use the Trial Version after the evaluation period of 7 days; (b) use the documents created or compiled with the Trial Version (except for test purpose or once a full version has been purchased); (c) sell this Trial Version package (except for shipment and handling charges); (d) cause or permit reverse engineering, disassembly, decompilation or alteration of this Software; (e) remove any product identification, copyright notices, or other notices or proprietary restrictions from this Software; (f) copy the documentation accompanying the software.
+
+TRIAL VERSION DISTRIBUTION
+
+You are hereby licensed to make as many copies of the Trial Version as you wish and distribute it to anyone provided that all files are intact. You must distribute the install form of the Trial Version (you must distribute the INSTALL file, not the files resulting of an installation). You are not allowed to sell the Trial Version (except for shipment and handling charges). Press is authorized to distribute it on any Cover Disk, CD-ROM without permission from AIGraph Team. Shareware Catalog Web sites are authorized to distribute it as a download file (hosted or linked to AIGraph Team site) without permission from AIGraph Team.
+
+TERM
+
+This License is effective until terminated. You may terminate it at any time by destroying the Trial Version, together with all copies thereof. This License will also terminate if you fail to comply with any term or condition of this Agreement. Upon such termination, you agree to destroy the Trial Version, together with all copies thereof.
+
+COPYRIGHT/OWNERSHIP
+
+This Trial Version and its source code are proprietary products of AIGraph Team and are protected by copyright and other intellectual property laws.
+
+DISCLAIMER OF WARRANTIES
+
+The Trial Version is supplied "AS IS". AIGraph Team disclaims all warranties, expressed or implied, including, without limitation, the warranties of merchantability and of fitness for any purpose. The user must assume the entire risk of using the Shareware.
+
+DISCLAIMER OF DAMAGES
+
+AIGraph Team assumes no liability for damages, direct or consequential, which may result from the use of the Trial Version, even if AIGraph Team has been advised of the possibility of such damages.</Distribution_Permissions>
+		<EULA>This End-User License Agreement (“EULA”) is a legal agreement between you (either an individual or a single entity) and AIGraph Team. For the software accompanying this EULA, which includes computer software and associated media and may include “online” or electronic documentation (“SOFTWARE PRODUCT” or “SOFTWARE”). By installing this software OR opening the sealed packet(s) OR exercising your rights to make and use copies of the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, promptly return this package to the place from which you obtained it.
+Software Product License:
+The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SOFTWARE PRODUCT is licensed, not sold.
+Grant of License:
+AIGraph Team. grants to you a nonexclusive license to use this SOFTWARE and related material delivered with this SOFTWARE PRODUCT. This SOFTWARE is licensed for use on one computer at a time. You may run this SOFTWARE on as many machines as you like provided there is no possibility that it can be run on more than one machine at a time. The SOFTWARE should never be installed on the hard drive of more than one computer. If the SOFTWARE PRODUCT is installed on a network hard drive, access must be restricted to a single user. You agree that you will not transfer or sub-license these rights. If you use the SOFTWARE on more than one computer at a time, you must license additional copies or request a multi-user license from AIGraph Team. You are entitled to a 7 days demo period.
+Copyright:
+All title and copyrights in and to the SOFTWARE PRODUCT (including but not limited to any images, photographs, animations, video, audio, music, text, and “applets,” incorporated into the SOFTWARE PRODUCT), the accompanying materials, and any copies of the SOFTWARE PRODUCT, are owned by AIGraph Team. or its suppliers. The SOFTWARE PRODUCT is protected by copyright laws and international treaty provisions. Therefore, you must treat the SOFTWARE PRODUCT like any other copyrighted material except that you may either.
+(a) make one copy of the SOFTWARE PRODUCT solely for backup or archival purposes, or
+(b) install the SOFTWARE PRODUCT on a single computer provided you keep the original solely for backup or archival purposes.
+No Liability For Consequential Damages:
+In no event shall AIGraph Team. or its suppliers be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use this product, even if AIGraph Team. has been advised of the possibility of such damages. Because some states/jurisdictions do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to you.
+Technical Support:
+Our technical support team with holds the right to refuse support to anyone who does not comply with requests or procedures. This includes failure to submit correct information, fraudulent registration or behavior, and any other lack of cooperation. All technical support is done through our website at http://www.aigraph.com.
+Other Restrictions:
+This EULA is your proof of license to exercise the rights granted herein and must be retained by you. You may not reverse engineer, de-compile, disassemble, redistribute, resell, rent, or lease any part of the SOFTWARE PRODUCT, without written permission from AIGraph Team.
+Miscellaneous:
+This agreement may change from time to time, so you should check with the AIGraph Team. website for any current or future updates that may withdrawal or extend any part of this agreement.
+If you acquired this product in the United States, this EULA is governed by the laws of the State of Indiana . If this product was acquired outside the United States, then local laws may apply. Should you have any questions concerning this EULA, or if you desire to contact AIGraph Team. for any reason, please contact the your Authorized vendor or write:
+AIGraph Team. https://www.aigraph.com</EULA>
+	</Permissions>
+	<Affiliates>
+		<Affiliates_FORM>Y</Affiliates_FORM>
+		<Affiliates_VERSION>1.4</Affiliates_VERSION>
+		<Affiliates_URL>http://pad.asp-software.org/extensions/Affiliates.htm</Affiliates_URL>
+		<Affiliates_Information_Page />
+		<Affiliates_Avangate_Order_Page />
+		<Affiliates_Avangate_Vendor_ID />
+		<Affiliates_Avangate_Product_ID />
+		<Affiliates_Avangate_Maximum_Commission_Rate />
+		<Affiliates_BMTMicro_Order_Page />
+		<Affiliates_BMTMicro_Vendor_ID />
+		<Affiliates_BMTMicro_Product_ID />
+		<Affiliates_BMTMicro_Maximum_Commission_Rate />
+		<Affiliates_Cleverbridge_Order_Page />
+		<Affiliates_Cleverbridge_Vendor_ID />
+		<Affiliates_Cleverbridge_Product_ID />
+		<Affiliates_Cleverbridge_Maximum_Commission_Rate />
+		<Affiliates_clixGalore_Order_Page />
+		<Affiliates_clixGalore_Vendor_ID />
+		<Affiliates_clixGalore_Product_ID />
+		<Affiliates_clixGalore_Maximum_Commission_Rate />
+		<Affiliates_CommissionJunction_Order_Page />
+		<Affiliates_CommissionJunction_Vendor_ID />
+		<Affiliates_CommissionJunction_Product_ID />
+		<Affiliates_CommissionJunction_Maximum_Commission_Rate />
+		<Affiliates_DigiBuy_Order_Page />
+		<Affiliates_DigiBuy_Vendor_ID />
+		<Affiliates_DigiBuy_Product_ID />
+		<Affiliates_DigiBuy_Maximum_Commission_Rate />
+		<Affiliates_DigitalCandle_Order_Page />
+		<Affiliates_DigitalCandle_Vendor_ID />
+		<Affiliates_DigitalCandle_Product_ID />
+		<Affiliates_DigitalCandle_Maximum_Commission_Rate />
+		<Affiliates_Emetrix_Order_Page />
+		<Affiliates_Emetrix_Vendor_ID />
+		<Affiliates_Emetrix_Product_ID />
+		<Affiliates_Emetrix_Maximum_Commission_Rate />
+		<Affiliates_eSellerate_Order_Page />
+		<Affiliates_eSellerate_Vendor_ID />
+		<Affiliates_eSellerate_Product_ID />
+		<Affiliates_eSellerate_Maximum_Commission_Rate />
+		<Affiliates_iPortis_Order_Page />
+		<Affiliates_iPortis_Vendor_ID />
+		<Affiliates_iPortis_Product_ID />
+		<Affiliates_iPortis_Maximum_Commission_Rate />
+		<Affiliates_Kagi_Order_Page />
+		<Affiliates_Kagi_Vendor_ID />
+		<Affiliates_Kagi_Product_ID />
+		<Affiliates_Kagi_Maximum_Commission_Rate />
+		<Affiliates_LinkShare_Order_Page />
+		<Affiliates_LinkShare_Vendor_ID />
+		<Affiliates_LinkShare_Product_ID />
+		<Affiliates_LinkShare_Maximum_Commission_Rate />
+		<Affiliates_NorthStarSol_Order_Page />
+		<Affiliates_NorthStarSol_Vendor_ID />
+		<Affiliates_NorthStarSol_Product_ID />
+		<Affiliates_NorthStarSol_Maximum_Commission_Rate />
+		<Affiliates_OneNetworkDirect_Order_Page />
+		<Affiliates_OneNetworkDirect_Vendor_ID />
+		<Affiliates_OneNetworkDirect_Product_ID />
+		<Affiliates_OneNetworkDirect_Maximum_Commission_Rate />
+		<Affiliates_Order1_Order_Page />
+		<Affiliates_Order1_Vendor_ID />
+		<Affiliates_Order1_Product_ID />
+		<Affiliates_Order1_Maximum_Commission_Rate />
+		<Affiliates_Osolis_Order_Page />
+		<Affiliates_Osolis_Vendor_ID />
+		<Affiliates_Osolis_Product_ID />
+		<Affiliates_Osolis_Maximum_Commission_Rate />
+		<Affiliates_Plimus_Order_Page />
+		<Affiliates_Plimus_Vendor_ID />
+		<Affiliates_Plimus_Product_ID />
+		<Affiliates_Plimus_Maximum_Commission_Rate />
+		<Affiliates_Regnet_Order_Page />
+		<Affiliates_Regnet_Vendor_ID />
+		<Affiliates_Regnet_Product_ID />
+		<Affiliates_Regnet_Maximum_Commission_Rate />
+		<Affiliates_Regnow_Order_Page />
+		<Affiliates_Regnow_Vendor_ID />
+		<Affiliates_Regnow_Product_ID />
+		<Affiliates_Regnow_Maximum_Commission_Rate />
+		<Affiliates_Regsoft_Order_Page />
+		<Affiliates_Regsoft_Vendor_ID />
+		<Affiliates_Regsoft_Product_ID />
+		<Affiliates_Regsoft_Maximum_Commission_Rate />
+		<Affiliates_ShareIt_Order_Page />
+		<Affiliates_ShareIt_Vendor_ID />
+		<Affiliates_ShareIt_Product_ID />
+		<Affiliates_ShareIt_Maximum_Commission_Rate />
+		<Affiliates_Shareasale_Order_Page />
+		<Affiliates_Shareasale_Vendor_ID />
+		<Affiliates_Shareasale_Product_ID />
+		<Affiliates_Shareasale_Maximum_Commission_Rate />
+		<Affiliates_SWReg_Order_Page />
+		<Affiliates_SWReg_Vendor_ID />
+		<Affiliates_SWReg_Product_ID />
+		<Affiliates_SWReg_Maximum_Commission_Rate />
+		<Affiliates_V-Share_Order_Page />
+		<Affiliates_V-Share_Vendor_ID />
+		<Affiliates_V-Share_Product_ID />
+		<Affiliates_V-Share_Maximum_Commission_Rate />
+		<Affiliates_VFree_Order_Page />
+		<Affiliates_VFree_Vendor_ID />
+		<Affiliates_VFree_Product_ID />
+		<Affiliates_VFree_Maximum_Commission_Rate />
+		<Affiliates_Yaskifo_Order_Page />
+		<Affiliates_Yaskifo_Vendor_ID />
+		<Affiliates_Yaskifo_Product_ID />
+		<Affiliates_Yaskifo_Maximum_Commission_Rate />
+	</Affiliates>
+	<ASP>
+		<ASP_FORM>Y</ASP_FORM>
+		<ASP_Member>N</ASP_Member>
+		<ASP_Member_Number />
+	</ASP>
+</XML_DIZ_INFO>

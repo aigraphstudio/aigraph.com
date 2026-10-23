@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"> 
+ <title>AIGraph Blog</title>
+ <link href="http://www.aigraph.com//"/>
+ <updated>2019-07-10T22:57:41+08:00</updated>
+ <id>http://www.aigraph.com//</id>
+   <author>
+     <name>admin</name>
+     <email>info@aigraph.com</email>
+   </author>
+ 
+ <entry>
+   <title>CAD File Viewer Matrix</title>
+   <link href="http://www.aigraph.com/blog/2015/10/12/cad-file-viewers.html"/>
+   <updated>2015-10-12T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2015/10/12/cad-file-viewers</id>
+   <content type="html">&lt;p&gt;There are many CAD file viewer in the market. Here we share with you some of them.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Application&lt;/th&gt;
+      &lt;th&gt;Developer&lt;/th&gt;
+      &lt;th&gt;License&lt;/th&gt;
+      &lt;th&gt;Support DGN?&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWGSee&lt;/td&gt;
+      &lt;td&gt;AutoDWG&lt;/td&gt;
+      &lt;td&gt;Shareware&lt;/td&gt;
+      &lt;td&gt;No&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bentley View&lt;/td&gt;
+      &lt;td&gt;Bentley Systems,Inc&lt;/td&gt;
+      &lt;td&gt;Free&lt;/td&gt;
+      &lt;td&gt;Yes&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;LibreCAD&lt;/td&gt;
+      &lt;td&gt;LibreCAD&lt;/td&gt;
+      &lt;td&gt;GPLv2&lt;/td&gt;
+      &lt;td&gt;No&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AIGraph CAD Viewer&lt;/td&gt;
+      &lt;td&gt;AIGraph Software&lt;/td&gt;
+      &lt;td&gt;Shareware&lt;/td&gt;
+      &lt;td&gt;Yes&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The history of DWG file format</title>
+   <link href="http://www.aigraph.com/blog/2015/09/26/dwg-file-format-history.html"/>
+   <updated>2015-09-26T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2015/09/26/dwg-file-format-history</id>
+   <content type="html">&lt;p&gt;DWG is a binary file format used for storing two- and three- dimensional design data and meta data. It is the native format for several CAD packages including DraftSight, AutoCAD, IntelliCAD (and its variants) and Caddie.&lt;/p&gt;
+
+&lt;p&gt;Version history&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Version&lt;/th&gt;
+      &lt;th&gt;Internal version&lt;/th&gt;
+      &lt;th&gt;AutoCAD versions&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG R1.0&lt;/td&gt;
+      &lt;td&gt;MC0.0&lt;/td&gt;
+      &lt;td&gt;AutoCAD Release 1.0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG R1.2&lt;/td&gt;
+      &lt;td&gt;AC1.2&lt;/td&gt;
+      &lt;td&gt;AutoCAD Release 1.2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG R1.40&lt;/td&gt;
+      &lt;td&gt;AC1.40&lt;/td&gt;
+      &lt;td&gt;AutoCAD Release 1.40&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG R2.05&lt;/td&gt;
+      &lt;td&gt;AC1.50&lt;/td&gt;
+      &lt;td&gt;AutoCAD Release 2.05&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG R2.10&lt;/td&gt;
+      &lt;td&gt;AC2.10&lt;/td&gt;
+      &lt;td&gt;AutoCAD Release 2.10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG R2.21&lt;/td&gt;
+      &lt;td&gt;AC2.21&lt;/td&gt;
+      &lt;td&gt;AutoCAD Release 2.21&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG R2.22&lt;/td&gt;
+      &lt;td&gt;AC1001, AC2.22&lt;/td&gt;
+      &lt;td&gt;AutoCAD Release 2.22&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG R2.50&lt;/td&gt;
+      &lt;td&gt;AC1002&lt;/td&gt;
+      &lt;td&gt;AutoCAD Release 2.50&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG R2.60&lt;/td&gt;
+      &lt;td&gt;AC1003&lt;/td&gt;
+      &lt;td&gt;AutoCAD Release 2.60&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG R9&lt;/td&gt;
+      &lt;td&gt;AC1004&lt;/td&gt;
+      &lt;td&gt;AutoCAD Release 9&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG R10&lt;/td&gt;
+      &lt;td&gt;AC1006&lt;/td&gt;
+      &lt;td&gt;AutoCAD Release 10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG R11/12&lt;/td&gt;
+      &lt;td&gt;AC1009&lt;/td&gt;
+      &lt;td&gt;AutoCAD Release 11, AutoCAD Release 12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG R13&lt;/td&gt;
+      &lt;td&gt;AC1012&lt;/td&gt;
+      &lt;td&gt;AutoCAD Release 13&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG R14&lt;/td&gt;
+      &lt;td&gt;AC1014&lt;/td&gt;
+      &lt;td&gt;AutoCAD Release 14&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG 2000&lt;/td&gt;
+      &lt;td&gt;AC1015&lt;/td&gt;
+      &lt;td&gt;AutoCAD 2000, AutoCAD 2000i, AutoCAD 2002&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG 2004&lt;/td&gt;
+      &lt;td&gt;AC1018&lt;/td&gt;
+      &lt;td&gt;AutoCAD 2004, AutoCAD 2005, AutoCAD 2006&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG 2007&lt;/td&gt;
+      &lt;td&gt;AC1021&lt;/td&gt;
+      &lt;td&gt;AutoCAD 2007, AutoCAD 2008, AutoCAD 2009&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG 2010&lt;/td&gt;
+      &lt;td&gt;AC1024&lt;/td&gt;
+      &lt;td&gt;AutoCAD 2010, AutoCAD 2011, AutoCAD 2012&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;DWG 2013&lt;/td&gt;
+      &lt;td&gt;AC1027&lt;/td&gt;
+      &lt;td&gt;AutoCAD 2013, AutoCAD 2014, AutoCAD 2015&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;In 2006, Autodesk applied for registration of US trademarks on “DWG”, “DWG EXTREME”, “DWG TRUECONVERT”, “REALDWG”, “DWGX”, “DWG TRUEVIEW”. As early as 1996, Autodesk has disclaimed exclusive use of the DWG mark in US trademark filings. Out of these applications, only TRUSTEDDWG has been registered as a trademark by the USPTO.&lt;/p&gt;
+
+&lt;p&gt;In June, 2011 the USPTO issued a final refusal to register DWG as a trademark owned by Autodesk.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>About 3DXML</title>
+   <link href="http://www.aigraph.com/blog/2015/07/08/3DXML.html"/>
+   <updated>2015-07-08T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2015/07/08/3DXML</id>
+   <content type="html">&lt;p&gt;In 2004, Dassault Systèmes (www.3ds.com) announced a 3D data format called 3DXML, which leverages XML for 3D product data exchange. 3DXML uses the highly compressible XVL format from Lattice Technologies (www.lattice3D.com) as the 3D geometry representation within 3DXML. 3DXML is a powerful, lightweight 3D format that is integrated through many of Dassault’s products.&lt;/p&gt;
+
+&lt;p&gt;In May, 2007, Dassault announced 3DLive, its next generation of on-line 3D applications. 3DLive is an impressive collaborative environment that is based on 3DXML.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Autodesk and DWF</title>
+   <link href="http://www.aigraph.com/blog/2015/07/03/Autodesk-and-DWF.html"/>
+   <updated>2015-07-03T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2015/07/03/Autodesk-and-DWF</id>
+   <content type="html">&lt;p&gt;Autodesk (www.autodesk.com) has the largest installed base in the CAD market by far. They released the DWF format several years ago, enabling Autodesk and competitive CAD users to translate 3D data with free DWF writers and visualize the data with free DWF viewers, which have been available for many years. Last year, Autodesk released Autodesk Design Review, a new design review workflow tool that automates collaborative processes and projects. Also of note, UGS and Autodesk recently announced cooperation aimed at mutual support of their JT Direct and DWF formats. It remains to be seen what will come of this partnership.&lt;/p&gt;
+
+&lt;p&gt;As customer demands quicken, products get more complex and globalization spreads resources around the globe, collaboration is pre-requisite to success. Yet collaborative product development is handicapped by endemically poor interoperability of product data. Progress is being made on many fronts, but much work remains. And the consensus success of global manufacturing may well depend on it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What's AutoCAD DWF file</title>
+   <link href="http://www.aigraph.com/blog/2015/06/22/autocad-dwf.html"/>
+   <updated>2015-06-22T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2015/06/22/autocad-dwf</id>
+   <content type="html">&lt;p&gt;Design Web Format (DWF) is a CAD file format developed by Autodesk for the efficient distribution and communication of rich design data to anyone who needs to view, review, or print design files. It could be a ‘snapshot’ of CAD design file such as DWG.&lt;/p&gt;
+
+&lt;p&gt;The sole purpose of DWF is not a replacement for native CAD formats such as AutoCAD drawings (DWG), but is to allow designers, engineers, project managers, and their colleagues to communicate design information and design content to anyone needing to work on it.&lt;/p&gt;
+
+&lt;p&gt;The current AutoCAD file format (.dwfx) is based on ISO/IEC 29500-2:2008 &lt;a href=&quot;http://blogs.msdn.com/opc/archive/2009/05/18/adventures-in-packaging-episode-1.aspx&quot; target=&quot;_blank&quot;&gt;Open Packaging Conventions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;With DWF:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Efficiency—Use intuitive tools to measure, mark up, and review 2D and 3D designs on the desktop;&lt;/li&gt;
+  &lt;li&gt;Communication—Share changes with your extended team and stakeholders—even;&lt;/li&gt;
+  &lt;li&gt;Reduce costs—Eliminate paper and avoid misunderstandings;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AIGraph CAD Viewer 3.5.1 released!</title>
+   <link href="http://www.aigraph.com/blog/2015/02/09/AIGraph-CAD-Viewer-3.5.1-released.html"/>
+   <updated>2015-02-09T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2015/02/09/AIGraph-CAD-Viewer-3.5.1-released</id>
+   <content type="html">&lt;p&gt;February 9, 2015 – AIGraph Software today announced the release and immediate availability of &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer 3.5.1, best &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; file viewer for you!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer 3.5.1 introduces new file format supporting: Design Web Format (&lt;span class=&quot;caps&quot;&gt;DWF&lt;/span&gt;). You can open &lt;span class=&quot;caps&quot;&gt;DWF&lt;/span&gt; file to view it, or save any &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; files to &lt;span class=&quot;caps&quot;&gt;DWF&lt;/span&gt; files.&lt;/p&gt;
+&lt;p&gt;Design Web Format (&lt;span class=&quot;caps&quot;&gt;DWF&lt;/span&gt;) is a secure file format developed by Autodesk for the efficient distribution and communication of rich design data to anyone who needs to view, review, or print design files. Because &lt;span class=&quot;caps&quot;&gt;DWF&lt;/span&gt; files are highly compressed, they are smaller and faster to transmit than design files, without the overhead associated with complex &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; drawings (or the management of external links and dependencies). With &lt;span class=&quot;caps&quot;&gt;DWF&lt;/span&gt; functionality, publishers of design data can limit the specific design data and plot styles to only what they want recipients to see and can publish multisheet drawing sets from multiple AutoCAD drawings in a single &lt;span class=&quot;caps&quot;&gt;DWF&lt;/span&gt; file. They can also publish 3D models from most Autodesk design applications.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AIGraph CAD Viewer 3.1.1 Released</title>
+   <link href="http://www.aigraph.com/blog/2014/07/06/AIGraph-CAD-Viewer-3.1.1-released.html"/>
+   <updated>2014-07-06T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2014/07/06/AIGraph-CAD-Viewer-3.1.1-released</id>
+   <content type="html">&lt;p&gt;July 6, 2014 – AIGraph Software today announced the release and immediate availability of &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer 3.1.1, the &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; file viewer for every one.&lt;/p&gt;
+&lt;h4&gt;New Features&lt;/h4&gt;
+&lt;p&gt;In version 3.1.1, we re-implementation our installation package. It supports &amp;#8216;Major upgrade&amp;#8217; policy, which means user can upgrade their old &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer version under major version. For example: Now we can upgrade from 3.0.2 to 3.1.1 while your 2.0 version are still working normally.&lt;/p&gt;
+&lt;p&gt;Please pay attention, this new feature need you un-install the old version and re-install AIGraph &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer. Good news is: this is a good time to upgrade your &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer to 3.1.1.&lt;/p&gt;
+&lt;p&gt;In this version, we also add &amp;#8216;Embedded Image&amp;#8217; supporting for &lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; file exporting. Now you can export &lt;span class=&quot;caps&quot;&gt;DWG&lt;/span&gt; files to &lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt;, with raster file embedded.&lt;/p&gt;
+&lt;h4&gt;Bug fixed&lt;/h4&gt;
+&lt;ul&gt;
+	&lt;li&gt;Raster image displaying bug in &lt;span class=&quot;caps&quot;&gt;DWG&lt;/span&gt; files.&lt;/li&gt;
+	&lt;li&gt;Crash issues in conversion process.&lt;/li&gt;
+	&lt;li&gt;Embedded image path bug in &lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; exporting.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>AIGraph CAD Viewer 3.0 released!</title>
+   <link href="http://www.aigraph.com/blog/2014/06/05/AIGraph-CAD-Viewer-3.0-released.html"/>
+   <updated>2014-06-05T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2014/06/05/AIGraph-CAD-Viewer-3.0-released</id>
+   <content type="html">&lt;p&gt;June 5, 2014 – AIGraph Software today announced the release and immediate availability of &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer 3.0, the &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; file viewer for every one.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer 3.0 introduces new batch conversion dialog. With new dialog, user can convert cad files to &lt;span class=&quot;caps&quot;&gt;PDF&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; or image files in one place.&lt;/p&gt;
+&lt;p&gt;&lt;img title=&quot;&quot; src=&quot;http://www.aigraph.com/img/cadviewer/2.jpg&quot; class=&quot;img-responsive&quot;&gt; &lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; file preview.&lt;/h3&gt;
+&lt;p&gt;&lt;img title=&quot;&quot; src=&quot;http://www.aigraph.com/img/cadviewer/preview.jpg&quot;&gt; &lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;After clicking &amp;#8220;Preview&amp;#8221; check button, the preview picture of selected &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; file will show. This is a amazing feature!&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h3&gt;Layout support.&lt;/h3&gt;
+&lt;p&gt;&lt;img title=&quot;&quot; src=&quot;http://www.aigraph.com/img/cadviewer/layout.jpg&quot;&gt; &lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;When converting &lt;span class=&quot;caps&quot;&gt;DWG&lt;/span&gt;/&lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; files to other formats, you can control which part of file content,aka layouts, can be reserved in new file.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>100% CLEAN award granted by Softpedia</title>
+   <link href="http://www.aigraph.com/blog/2014/02/13/softpedia-100-clean-award.html"/>
+   <updated>2014-02-13T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2014/02/13/softpedia-100-clean-award</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.softpedia.com/progClean/AIGraph-CAD-Viewer-Clean-245388.html&quot;&gt;&lt;img style=&quot;float:left&quot; title=&quot;AIGraph CAD Viewer is granted 100% clean award from Softpedia&quot; src=&quot;http://www.softpedia.com/base_img/softpedia_clean_award_f.gif&quot; alt=&quot;&quot; width=&quot;170&quot; height=&quot;116&quot; /&gt;&lt;/a&gt;&lt;a title=&quot;AIGraph CAD Viewer Features&quot; href=&quot;http://www.aigraph.com/cadviewer/&quot; target=&quot;_blank&quot;&gt;AIGraph &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer&lt;/a&gt; has been awarded Softpedia&amp;#8217;s 100% &lt;span class=&quot;caps&quot;&gt;CLEAN&lt;/span&gt; Award. This verifies that it does not contain any form of malware, including but not limited to: spyware, viruses, trojans and backdoors.&lt;/p&gt;
+&lt;p&gt;The description text was created by our &lt;strong&gt;editors&lt;/strong&gt;, using sources such as text from &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer product&amp;#8217;s homepage, information from its help system, the &lt;span class=&quot;caps&quot;&gt;PAD&lt;/span&gt; file and the editor&amp;#8217;s &lt;strong&gt;own &lt;/strong&gt;opinions on the program itself.&lt;/p&gt;
+&lt;p&gt;AIGraph &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer has been tested in the Softpedia labs using several industry-leading security solutions and found to be completely clean of adware/spyware components. We are &lt;strong&gt;impressed&lt;/strong&gt; with the quality of your product and encourage you to keep these &lt;strong&gt;high&lt;/strong&gt; standards in the future.&lt;/p&gt;
+&lt;p&gt;More information about your product&amp;#8217;s certification and the award is available on &lt;a title=&quot;100% Clean Softpedia Award&quot; href=&quot;http://www.softpedia.com/progClean/AIGraph-CAD-Viewer-Clean-245388.html&quot; target=&quot;_blank&quot;&gt;this page&lt;/a&gt;, and if you want, you can &lt;a href=&quot;http://www.softpedia.com/get/Science-CAD/AIGraph-CAD-Viewer.shtml&quot; target=&quot;_blank&quot;&gt;download AIGraph &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer&lt;/a&gt; from the Softpedia site too.&lt;/p&gt;
+&lt;p&gt;It’s great that &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer is recognized as such by an independent party, and such a distinguished party at that. So It&amp;#8217;s grateful to the Softpedia team for this award.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>AIGraph CAD Viewer 2.5.1 released!</title>
+   <link href="http://www.aigraph.com/blog/2013/11/04/AIGraph-CAD-Viewer-2.5.1-release.html"/>
+   <updated>2013-11-04T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2013/11/04/AIGraph-CAD-Viewer-2.5.1-release</id>
+   <content type="html">&lt;p&gt;AIGraph &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer 2.5.1 is released today!&lt;/p&gt;
+&lt;p&gt;This is a bug fixed version:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Fix infinite loop issues of Zoom Window command.&lt;/li&gt;
+	&lt;li&gt;Clean up and polish the version information.&lt;/li&gt;
+	&lt;li&gt;Fix minor words errors in the license agreement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please &lt;a href=&quot;http://www.aigraph.com/downloads.html&quot; target=&quot;_blank&quot;&gt;download new version&lt;/a&gt; to use it.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>AIGraph CAD Viewer 2.4 released!</title>
+   <link href="http://www.aigraph.com/blog/2013/09/04/AIGraph-CAD-Viewer-2.4-released.html"/>
+   <updated>2013-09-04T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2013/09/04/AIGraph-CAD-Viewer-2.4-released</id>
+   <content type="html">&lt;p&gt;In this minor version update, we added a new feature:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Export &lt;span class=&quot;caps&quot;&gt;DWG&lt;/span&gt;,&lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; files to &lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; file. Here is the exporting dialog.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.aigraph.com/img/cadviewer/svgdialog.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Fixes&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Fix crash when reading dxf files. We have tested viewer with thousands of &lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; files. It helped!&lt;/li&gt;
+	&lt;li&gt;Fix bug in window show/hiding issues.&lt;/li&gt;
+	&lt;li&gt;Fix bug of &lt;span class=&quot;caps&quot;&gt;PDF&lt;/span&gt; file property string encoding issues.&lt;/li&gt;
+	&lt;li&gt;Fix bug in system information catching function in about dialog.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please &lt;a href=&quot;http://www.aigraph.com/downloads.html&quot; target=&quot;_blank&quot;&gt;download new version&lt;/a&gt; to use it.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>DGN file format</title>
+   <link href="http://www.aigraph.com/blog/2013/07/09/dgn-file-format.html"/>
+   <updated>2013-07-09T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2013/07/09/dgn-file-format</id>
+   <content type="html">&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;DGN&lt;/span&gt; (design) is the name used for &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; file formats supported by &lt;a href=&quot;http://www.bentley.com&quot;&gt;Bentley Systems&amp;#8217; MicroStation&lt;/a&gt; and Intergraph&amp;#8217;s &lt;a href=&quot;http://www.intergraph.com/about_us/history_70s.aspx&quot;&gt;Interactive Graphics Design System (&lt;span class=&quot;caps&quot;&gt;IGDS&lt;/span&gt;)&lt;/a&gt; &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; programs.&lt;/p&gt;
+&lt;p&gt;For now, &lt;span class=&quot;caps&quot;&gt;DGN&lt;/span&gt; has two major version: V7 and V8. They are very different file format. &lt;span class=&quot;caps&quot;&gt;DGN&lt;/span&gt; V7 is designed a long time ago and referenced as The Intergraph Standard File Formats (&lt;span class=&quot;caps&quot;&gt;ISFF&lt;/span&gt;). &lt;span class=&quot;caps&quot;&gt;DGN&lt;/span&gt; V8 is introduced in Microstation 2004.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;DGN&lt;/span&gt; V7 consists of several types of binary files.Design files are sequential, variable-length files with variable-length records for the Design File Header, file set-up information, graphic elements, and non-graphic data. User-defined elements begin with the fourth element. Design files are typically designated with the extension &amp;#8220;.dgn&amp;#8221;. Cell libraries store cell definitions for placement in design files. A cell library consists of a file header (type 5) element followed by individual cell descriptions. Each cell is a complex element that contains a cell library header (type 1) element and component elements. Cell descriptions can be nested. Nested cells contain a type 2 header and component elements. If the cell library already contains the nested cell, its component elements are not repeated. Cell libraries are typically designated with the extension &amp;#8220;.cel&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;DGN&lt;/span&gt; V8 is an updated specification of the original Intergraph &lt;span class=&quot;caps&quot;&gt;DGN&lt;/span&gt; file format. It&amp;#8217;s stored using Microsoft&amp;#8217;s Compound File. A full description of Compound File is available &lt;a href=&quot;http://msdn.microsoft.com/en-us/library/windows/desktop/aa378938(v=vs.85).aspx&quot;&gt;here&lt;/a&gt;. A compound file contains a Root Storage and many other Streams.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>AIGraph CAD Viewer 2.2 released!</title>
+   <link href="http://www.aigraph.com/blog/2013/05/23/AIGraph-CAD-Viewer-2.2-released.html"/>
+   <updated>2013-05-23T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2013/05/23/AIGraph-CAD-Viewer-2.2-released</id>
+   <content type="html">&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer 2.2  is a focused maintenance update which includes fixes for reported issues.&lt;/p&gt;
+&lt;p&gt;While we also added a new feature:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Now &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; viewer can export &lt;span class=&quot;caps&quot;&gt;DWG&lt;/span&gt;,&lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; file to &lt;span class=&quot;caps&quot;&gt;PDF&lt;/span&gt; file. Here is the &lt;span class=&quot;caps&quot;&gt;PDF&lt;/span&gt; exporting dialog.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.aigraph.com/img/cadviewer/pdfdialog.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Fixes:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Fixed bug when open some R14 &lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; files, viewer crashed.&lt;/li&gt;
+	&lt;li&gt;Fixed bug in font file locating.&lt;/li&gt;
+	&lt;li&gt;Fixed bug in &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; file conversion dialog&amp;#8217;s progress bar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please &lt;a href=&quot;http://www.aigraph.com/downloads.html&quot; target=&quot;_blank&quot;&gt;download new version&lt;/a&gt; to have fun with this new version.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>About DXF file</title>
+   <link href="http://www.aigraph.com/blog/2013/04/15/about-dxf-file.html"/>
+   <updated>2013-04-15T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2013/04/15/about-dxf-file</id>
+   <content type="html">&lt;p&gt;AutoCAD &lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; (Drawing Interchange Format, or Drawing Exchange Format) is a &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; data file format developed by Autodesk for enabling data interoperability between AutoCAD and other programs.&lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; was originally introduced in December 1982 as part of AutoCAD 1.0.&lt;/p&gt;
+&lt;p&gt;Versions of AutoCAD from Release 10 (October 1988) and up support both &lt;span class=&quot;caps&quot;&gt;ASCII&lt;/span&gt; and binary forms of &lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt;. Earlier versions support only &lt;span class=&quot;caps&quot;&gt;ASCII&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; format is a tagged data representation of all the information contained in an AutoCAD drawing file. Tagged data means that each data element in the file is preceded by an integer number that is called a group code.&lt;/p&gt;
+&lt;p&gt;The &lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; Reference is available &lt;a href=&quot;http://usa.autodesk.com/adsk/servlet/item?id=12272454&amp;linkID=10809853&amp;siteID=123112&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;he basic organization of a &lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; file is as follows:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;HEADER&lt;/span&gt; section – General information about the drawing. Each parameter has a variable name and an associated value.&lt;/li&gt;
+	&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;CLASSES&lt;/span&gt; section – Holds the information for application-defined classes whose instances appear in the &lt;span class=&quot;caps&quot;&gt;BLOCKS&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;ENTITIES&lt;/span&gt;, and &lt;span class=&quot;caps&quot;&gt;OBJECTS&lt;/span&gt; sections of the database. Generally does not provide sufficient information to allow interoperability with other programs.&lt;/li&gt;
+	&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;TABLES&lt;/span&gt; section – This section contains definitions of named items.
+	&lt;ul&gt;
+		&lt;li&gt;Application ID (&lt;span class=&quot;caps&quot;&gt;APPID&lt;/span&gt;) table&lt;/li&gt;
+		&lt;li&gt;Block Record (BLOCK_RECORD) table&lt;/li&gt;
+		&lt;li&gt;Dimension Style (&lt;span class=&quot;caps&quot;&gt;DIMSTYPE&lt;/span&gt;) table&lt;/li&gt;
+		&lt;li&gt;Layer (&lt;span class=&quot;caps&quot;&gt;LAYER&lt;/span&gt;) table&lt;/li&gt;
+		&lt;li&gt;Linetype (&lt;span class=&quot;caps&quot;&gt;LTYPE&lt;/span&gt;) table&lt;/li&gt;
+		&lt;li&gt;Text style (&lt;span class=&quot;caps&quot;&gt;STYLE&lt;/span&gt;) table&lt;/li&gt;
+		&lt;li&gt;User Coordinate System (&lt;span class=&quot;caps&quot;&gt;UCS&lt;/span&gt;) table&lt;/li&gt;
+		&lt;li&gt;View (&lt;span class=&quot;caps&quot;&gt;VIEW&lt;/span&gt;) table&lt;/li&gt;
+		&lt;li&gt;Viewport configuration (&lt;span class=&quot;caps&quot;&gt;VPORT&lt;/span&gt;) table&lt;/li&gt;
+	&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;BLOCKS&lt;/span&gt; section – This section contains Block Definition entities describing the entities comprising each Block in the drawing.&lt;/li&gt;
+	&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;ENTITIES&lt;/span&gt; section – This section contains the drawing entities, including any Block References.&lt;/li&gt;
+	&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;OBJECTS&lt;/span&gt; section – Contains the data that apply to nongraphical objects, used by AutoLISP and * * * ObjectARX applications.&lt;/li&gt;
+	&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;THUMBNAILIMAGE&lt;/span&gt; section – Contains the preview image for the &lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; file.&lt;/li&gt;
+	&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;END&lt;/span&gt; OF &lt;span class=&quot;caps&quot;&gt;FILE&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; is rich in features, including: support for 3D objects,curves, text, associatived imensioning, and is an easy format to parse. The &lt;span class=&quot;caps&quot;&gt;DXB&lt;/span&gt; format is a binary representation of a &lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; file and they are usually smaller and faster to load than the equivalent &lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; file.&lt;/p&gt;
+&lt;p&gt;AIGraph &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer supports all version of &lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; file format, with batch conversion between &lt;span class=&quot;caps&quot;&gt;DWG&lt;/span&gt; and &lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>SVG file</title>
+   <link href="http://www.aigraph.com/blog/2013/04/03/SVG-file.html"/>
+   <updated>2013-04-03T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2013/04/03/SVG-file</id>
+   <content type="html">&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; stands for Scalable Vector Graphics.It is a language for describing two-dimensional vector graphics in &lt;span class=&quot;caps&quot;&gt;XML&lt;/span&gt;. And a set of related graphics script interfaces. &lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; 1.1 is a W3C Recommendation.&lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; 2 is currently under development, and will add new ease-of-use features to &lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt;, as well as more closely integrating with &lt;span class=&quot;caps&quot;&gt;HTML&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;CSS&lt;/span&gt;, and the &lt;span class=&quot;caps&quot;&gt;DOM&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; is a widely-deployed royalty-free graphics format developed and maintained by the &lt;a href=&quot;http://www.w3.org/Graphics/SVG/&quot;&gt;W3C &lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; Working Group&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In a summary:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; stands for Scalable Vector Graphics&lt;/li&gt;
+	&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; is used to define vector-based graphics for the Web&lt;/li&gt;
+	&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; defines the graphics in &lt;span class=&quot;caps&quot;&gt;XML&lt;/span&gt; format&lt;/li&gt;
+	&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; graphics do &lt;span class=&quot;caps&quot;&gt;NOT&lt;/span&gt; lose any quality if they are zoomed or resized&lt;/li&gt;
+	&lt;li&gt;Every element and every attribute in &lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; files can be animated&lt;/li&gt;
+	&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; is a W3C recommendation&lt;/li&gt;
+	&lt;li&gt;&lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; integrates with other W3C standards such as the &lt;span class=&quot;caps&quot;&gt;DOM&lt;/span&gt; and &lt;span class=&quot;caps&quot;&gt;XSL&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;Example&lt;/h5&gt;
+&lt;pre&gt;
+&amp;lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; version=&quot;1.1&quot;&amp;gt;
+  &amp;lt;rect width=&quot;300&quot; height=&quot;100&quot; style=&quot;fill:rgb(0,0,255);stroke-width:1;stroke:rgb(0,0,0)&quot; /&amp;gt;
+&amp;lt;/svg&amp;gt;
+&lt;/pre&gt;
+&lt;p&gt;AIGraph &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer provide the command to export any &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; file to &lt;span class=&quot;caps&quot;&gt;SVG&lt;/span&gt; file. Please check &lt;a href=&quot;http://www.aigraph.com/cadviewer/dwg-to-svg.html&quot;&gt;this page&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>AIGraph CAD Viewer 2.0 released!</title>
+   <link href="http://www.aigraph.com/blog/2013/02/20/AIGraph-CAD-Viewer-2.0-released.html"/>
+   <updated>2013-02-20T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2013/02/20/AIGraph-CAD-Viewer-2.0-released</id>
+   <content type="html">&lt;p&gt;We’re finally done polishing the new version of AIGraph &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer, and you can now download the final release of &lt;a href=&quot;http://www.aigraph.com/downloads.html&quot; target=&quot;_blank&quot;&gt;AIGraph &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer 2.0&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Highlights of this update include:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Improved &lt;span class=&quot;caps&quot;&gt;DWG&lt;/span&gt;,&lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; conversion dialog. Add more options and provide more feedback during the file converting.&lt;/li&gt;
+	&lt;li&gt;Added web help system instead of the chm help file on the disk. You can get latest help information and more resource on our website.&lt;/li&gt;
+	&lt;li&gt;Fixed many bugs in file read/write functions.&lt;/li&gt;
+	&lt;li&gt;Contained numerous additional behavioral and interface refinements, as well as performance enhancements&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Please &lt;a href=&quot;http://www.aigraph.com/downloads.html&quot; target=&quot;_blank&quot;&gt;download new version&lt;/a&gt; to have fun with your &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; works.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>About SmartGeometry</title>
+   <link href="http://www.aigraph.com/blog/2013/01/21/about-smart-geometry.html"/>
+   <updated>2013-01-21T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2013/01/21/about-smart-geometry</id>
+   <content type="html">&lt;p&gt;Smartgeometry was founded in 2001 as a partnership between Practice, Research and Academia, formed by members of the world&amp;#8217;s leading architectural and engineering practices and educational institutions.To the new generations of designers, engineers and architects, mathematics and algorithms are becoming as natural as pen and pencil. Smartgeometry promotes the emergence of this new paradigm in which digital designers and craftsmen are able to intelligently exploit the combination of digital and physical media to take projects from design right through to production.&lt;/p&gt;
+&lt;h4&gt;Smartgeometry Conference&lt;/h4&gt;
+&lt;p&gt;The Smartgeometry Workshop and Conference is the premier gathering for the generative design community. Hosted by the Smartgeometry Group, this annual event focuses on innovative design tools, technologies, and methodologies that allow and encourage new forms of architectural and structural expression – forms that are radically changing the built environment.&lt;/p&gt;
+&lt;p&gt;You can check more information about this conference &lt;a href=&quot;http://www.bentley.com/en-US/promo/smartgeometry/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;SmartGeometry Group&lt;/h4&gt;
+&lt;p&gt;SmartGeometry (SG) is a non-profit organization focusing on the use of the computer as an intelligent design aid in Architecture, Engineering and Construction (&lt;span class=&quot;caps&quot;&gt;AEC&lt;/span&gt;). It encourages collaboration between practicing &lt;span class=&quot;caps&quot;&gt;AEC&lt;/span&gt; professionals, academics and students using computational and parametric software tools.&lt;/p&gt;
+&lt;h4&gt;GenerativeComponents&lt;/h4&gt;
+&lt;p&gt;GenerativeComponents (GC) is a commercial software product by Bentley Systems. It enables designers to explore more possibilities, in less time, create better designs, and efficiently create and manage complex geometric relationships.&lt;/p&gt;
+&lt;p&gt;Generative design software (aka GC)captures and exploits the critical relationships between design intent and geometry. Designs can be refined by either dynamically modeling and directly manipulating geometry, by applying rules and capturing relationships among building elements, or by defining complex building forms and systems through concisely expressed algorithms.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Point cloud in CAD software</title>
+   <link href="http://www.aigraph.com/blog/2013/01/19/point-cloud.html"/>
+   <updated>2013-01-19T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2013/01/19/point-cloud</id>
+   <content type="html">&lt;p&gt;A point cloud is a set of data points in some coordinate system.Point clouds may be created by 3D scanners. These devices measure in an automatic way a large number of points on the surface of an object, and often output a point cloud as a data file. The point cloud represents the set of points that the device has measured.&lt;/p&gt;
+&lt;p&gt;Pointools,  was founded in 2003 with the mission of enabling the use of scan data, or point clouds to the average user workflows in &lt;span class=&quot;caps&quot;&gt;AEC&lt;/span&gt;.It primarily came down to really helping to define workflows and having the technology that delivered performance to make it feasible to work with large point cloud files on the desktop.&lt;/p&gt;
+&lt;p&gt;In the past, the very large size of point cloud files has been one negative holding adoption bac. Related problems to file size are how fast you can look at a point cloud, what kind of visual quality you have and how much resources the point cloud takes up on your computer. With Pointools, we can see the use of point clouds increasing and the technology continuing to get better.&lt;/p&gt;
+&lt;p&gt;In the world of &lt;span class=&quot;caps&quot;&gt;AEC&lt;/span&gt;, point clouds are becoming a more frequently utilized data type and engineers want to deploy them more often. They&amp;#8217;ve become very cost effective to acquire, people want to use them, they want to grab the as-is world and they want to bring point clouds into hybrid workflows.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>What happened in CAD market during 2012</title>
+   <link href="http://www.aigraph.com/blog/2013/01/12/what-happened-in-cad-market-during-2012.html"/>
+   <updated>2013-01-12T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2013/01/12/what-happened-in-cad-market-during-2012</id>
+   <content type="html">&lt;p&gt;It&amp;#8217;s 2013 now(Finally!). Let&amp;#8217;s see what happened in &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; market during 2012.&lt;/p&gt;
+&lt;h4&gt;Hardware Issues&lt;/h4&gt;
+&lt;p&gt;We all know that &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt;/&lt;span class=&quot;caps&quot;&gt;CAM&lt;/span&gt; hardware and software go hand in hand. And fortunately, as expected, the majority of &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt;/&lt;span class=&quot;caps&quot;&gt;CAM&lt;/span&gt; users do their work on powerful workstations. And as you may know, most most of &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; users worked on  multiple machines, desktops and laptops. Users are forced to upgrade their machines because their primary &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; software is updated, which, if you haven’t figured out by now, is also a great reason to upgrade your hardware. Other options would be:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Purchasing dual monitors;&lt;/li&gt;
+	&lt;li&gt;Purchasing larger monitors;&lt;/li&gt;
+	&lt;li&gt;Upgrading video capabilities;&lt;/li&gt;
+	&lt;li&gt;Replacing hard drives with solid-state drives;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In my experience, &lt;span class=&quot;caps&quot;&gt;SSD&lt;/span&gt; is very good hardware investment in my 2012.&lt;/p&gt;
+&lt;h4&gt;&lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Software&lt;/h4&gt;
+&lt;p&gt;The &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; market, one of the largest and most established software markets is dynamic and growing in new directions.The &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Market was worth approximately $5 billion in 2009. It reached $6.4 in 2010 and $7 billion in 2011.Worldwide all markets slowed down during the economic recession of 2008-2009 but the engines are starting up again. Asia and India barely slowed and new markets are joining them including Latin America, Africa, Southeast Asia, and the Middle East.&lt;/p&gt;
+&lt;p&gt;New platforms and new distribution models will lead the market. &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; has long been a high-value product and &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; companies have jealously protected their high margins. The new opportunities opened up by cloud computing, apps, and tablets give &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; companies an opening to “have it all,” high volume, low cost consumer-ish apps along with new ways to offer boutique services to valued subscription customers.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>AIGraph CAD Viewer 1.1 released!</title>
+   <link href="http://www.aigraph.com/blog/2012/12/23/AIGraph-CAD-Viewer-1.1-released.html"/>
+   <updated>2012-12-23T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2012/12/23/AIGraph-CAD-Viewer-1.1-released</id>
+   <content type="html">&lt;p&gt;Just weeks after the first AIGraph &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer hit the market, an update is being made available adding new features, and significant performance improvements. There have been hundreds of improvements added to AIGraph &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer, but we wanted to give you a brief overview of some of the highlights from this release:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Support &lt;span class=&quot;caps&quot;&gt;DWG&lt;/span&gt;/&lt;span class=&quot;caps&quot;&gt;DXF&lt;/span&gt; file conversion between different versions.&lt;/li&gt;
+	&lt;li&gt;Add conversion dialog that you can convert many files one time.&lt;/li&gt;
+	&lt;li&gt;Enhancement in display system.&lt;/li&gt;
+	&lt;li&gt;A few other minor stuff.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This AIGraph &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt; Viewer update will be available for all users on our &lt;a href=&quot;http://www.aigraph.com/downloads.html&quot; target=&quot;_blank&quot;&gt;download page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I’d like to take this moment to wish you and yours a very Merry Christmas!&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;http://www.aigraph.com/img/merry-christmas.jpg&quot; /&gt;&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>We will release new website soon!</title>
+   <link href="http://www.aigraph.com/blog/2012/12/13/new-website.html"/>
+   <updated>2012-12-13T00:00:00+08:00</updated>
+   <id>http://www.aigraph.com/blog/2012/12/13/new-website</id>
+   <content type="html">&lt;p&gt;Our new website will be designed and implementation by &lt;a href=&quot;http://www.getbootstrap.com&quot;&gt;Bootstrap&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;#8220;Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.&amp;#8221; This is the official description about Bootstrap. But from our aspect, we think that it&amp;#8217;s  a amazing tool!&lt;/p&gt;
+&lt;p&gt;Not everyone will like our new website but we will appreciated that &lt;a href=&quot;http://www.aigraph.com/contacts/report.html&quot;&gt;you can send us your suggestions&lt;/a&gt;.&lt;/p&gt;</content>
+ </entry>
+ 
+</feed>
